@@ -1,0 +1,19 @@
+{
+  "name": "translate-google",
+  "version": "1.0.0",
+  "description": "Translate selected app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "translate",
+    "google-translate",
+    "desktop"
+  ],
+  "author": "trivu",
+  "license": "ISC",
+  "dependencies": {
+    "google-translate-api": "^2.3.0"
+  }
+}
